@@ -6,5 +6,5 @@
 
 ### Links
 
-Log Likelihood: [https://en.wikipedia.org/wiki/Likelihood_function#Log-likelihood]
+[https://en.wikipedia.org/wiki/Likelihood_function#Log-likelihood](Log Likelihood)
 
