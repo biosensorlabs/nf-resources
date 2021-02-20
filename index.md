@@ -26,7 +26,7 @@
 
 [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
 
-[Investigating the Impact of Normalizing Flows on Latent Variable Machine Translation (https://invertibleworkshop.github.io/INNF_2019/accepted_papers/pdfs/INNF_2019_paper_29.pdf)
+[Investigating the Impact of Normalizing Flows on Latent Variable Machine Translation](https://invertibleworkshop.github.io/INNF_2019/accepted_papers/pdfs/INNF_2019_paper_29.pdf)
 
 ### Links
 
