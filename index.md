@@ -8,6 +8,8 @@
 
 [Pytorch Flows](https://github.com/acids-ircam/pytorch_flows)
 
+[Flow/MVAE Examples From Zheng](https://github.com/apsyx/mvae/)
+
 ### Blog Posts
 
 [Flow Based Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
