@@ -3,7 +3,9 @@
 ### Repositories
 
 [Basic Flow Models w/ Pytorch](https://github.com/tonyduan/normalizing-flows)
+
 [Glow](https://github.com/openai/glow)
+
 [Pytorch Flows](https://github.com/acids-ircam/pytorch_flows)
 
 ### Blog Posts
