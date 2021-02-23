@@ -4,7 +4,9 @@
 
 [Basic Flow Models w/ Pytorch](https://github.com/tonyduan/normalizing-flows)
 
-[Glow](https://github.com/openai/glow)
+[Glow (Original)](https://github.com/openai/glow)
+
+[Glow (PyTorch)](https://github.com/rosinality/glow-pytorch)
 
 [Pytorch Flows](https://github.com/acids-ircam/pytorch_flows)
 
