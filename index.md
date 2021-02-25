@@ -1,5 +1,9 @@
 ## Normalizing Flow Resources
 
+## Background
+
+[Conditional Probability](http://www.stat.yale.edu/Courses/1997-98/101/condprob.htm)
+
 ### Repositories
 
 [Basic Flow Models w/ Pytorch](https://github.com/tonyduan/normalizing-flows)
