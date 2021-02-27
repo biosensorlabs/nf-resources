@@ -8,6 +8,7 @@
 
 [KL Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
+
 ### Repositories
 
 [Basic Flow Models w/ Pytorch](https://github.com/tonyduan/normalizing-flows)
@@ -27,6 +28,8 @@
 ### Presentations
 
 [Glow Lecture](https://www.davidinouye.com/course/ece57000-fall-2020/lectures/normalizing-flows.pdf)
+
+[Variational Inference (Princeton)](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 
 ### Papers
 
