@@ -4,6 +4,8 @@
 
 [Conditional Probability](http://www.stat.yale.edu/Courses/1997-98/101/condprob.htm)
 
+[Bayesian Statistics](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
+
 [Bayesian Analysis Lecture Notes (MIT)](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec15.pdf)
 
 [KL Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
