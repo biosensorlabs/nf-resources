@@ -23,6 +23,8 @@
 
 [Flow/MVAE Examples From Zheng](https://github.com/apsyx/mvae/)
 
+[MaCow (PyTorch)](https://github.com/XuezheMax/macow)
+
 ### Blog Posts
 
 [Flow Based Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
